@@ -1,0 +1,6 @@
+customer_id,name,last_purchase,days_since_last_purchase
+1,Alice,2024-06-06,390
+2,Bob,2024-06-05,391
+3,Charlie,2024-06-04,392
+4,Diana,2024-06-04,392
+5,Evan,2024-06-05,391

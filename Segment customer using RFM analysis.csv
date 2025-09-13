@@ -1,0 +1,6 @@
+customer_id,name,last_order,frequency,monetary,recency_days
+1,Alice,2024-06-06,3,104.97,25
+2,Bob,2024-06-05,2,74.50,26
+3,Charlie,2024-06-04,1,89.97,27
+4,Diana,2024-06-04,1,45.00,27
+5,Evan,2024-06-05,1,69.00,26
